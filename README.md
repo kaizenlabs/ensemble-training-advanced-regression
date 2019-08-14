@@ -19,7 +19,7 @@ Rarely is a single machine learning model enough. Typically state of the art mac
 In this example, we're doing to some advanced data visualization to check for outliers, visualize null values, and extract feature importance in sales data for home sales prices. We gain some great insights about what features matter most in the final sales price of a home, as well as use three different types of machine learning models (XGBoost, SVM, and Neural Network) to create an ensemble model with a Gridsearch to return the weighted average prediction
 
 The dataset in its entirety can be found here:
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+https://www.kaggle.com/c/5407/download-all
 
 # Links
 
