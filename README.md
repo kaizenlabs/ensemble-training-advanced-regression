@@ -2,9 +2,9 @@
 
 [![Tensorflow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7b9ZDD7lMdkByT-f_RCAqSQYqnq_CpgD16IFrwfmUwWCmdt7H)](https://www.tensorflow.org/beta/guide/effective_tf2)
 
-[![Tensorflow](http://pythonstatistics.net/wp-content/uploads/cache/images/2019/08/xgboost/xgboost-1101974912.png)](https://xgboost.readthedocs.io)
+[![XGBoost](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png)](https://xgboost.readthedocs.io)
 
-[![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/JohnAntonusMaximus/predicting-heart-disease/blob/master/Predicting_Heart_Disease_w_TensorFlow_2_0.ipynb)
+[![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/JohnAntonusMaximus/ensemble-training-advanced-regression/blob/master/Ensemble_Modeling_w_Advanced_Regression.ipynb)
 
 ## Background
 
